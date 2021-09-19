@@ -1,1 +1,6 @@
-{"name":"garuda pool","ticker":"GARU","description":"Secure, reliable, made in Detroit. Stake with us!","homepage":"www.garudapool.io"}
+{
+"name": "Garuda Pool",
+"description": "Secure, reliable, made in Detroit. Stake with us!",
+"ticker": "GARU",
+"homepage": "https://www.garudapool.io"
+}
