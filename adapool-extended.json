@@ -21,13 +21,13 @@
         "about": {
             "me": "GARUDA POOL",
             "server": "Secure, reliable, made in Indonesia. Stake with us!",
-            "company": "GARUDA POOL"
+            "company": "GARUDA POOL",
         }
     },
     "my-pool-ids": {
-        "0": "pool1zsfyca7vnftr3ywzhwq07whjev9nau2j65mq6kehnpvvccstlzz"
+        "0": "pool1zsfyca7vnftr3ywzhwq07whjev9nau2j65mq6kehnpvvccstlzz",
     },
     "telegram-admin-handle": {
-        "0": ""
-    }
+        "0": "",
+    },
 }
